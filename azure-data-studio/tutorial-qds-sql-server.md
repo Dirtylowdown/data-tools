@@ -1,14 +1,86 @@
----
-title: Enable the five slowest queries sample widget
-description: This tutorial demonstrates how to enable the five slowest queries sample widget on the database dashboard.
-author: markingmyname
-ms.author: maghan
-ms.reviewer: alayu
-ms.date: 06/01/2020
-ms.service: azure-data-studio
-ms.topic: tutorial
-ms.custom: updatefrequency5
----
+End
+Void
+Delete
+Stop
+Terminate 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Tutorial: Add the *five slowest queries* sample widget to the database dashboard
 
