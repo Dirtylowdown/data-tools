@@ -1,30 +1,98 @@
----
-title: Building and publishing changes to database tables using the SQL Database Projects extension
-description: How to use SQL Database Projects to build and publish changes to a database table in Azure Data Studio
-author: tdoshin
-ms.author: timioshin
-ms.reviewer: maghan
-ms.date: 4/12/2023
-ms.service: azure-data-studio
-ms.topic: tutorial
+End
+Delete
+Void
+Terminate 
+Stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 # Building and Deploying Changes to tables using the SQL Database Projects extension
 
-[!INCLUDE [sql-asdb-asmi](includes/applies-to-version/sql-asdb-asmi.md)]
-
-With the help of the SQL Database Projects extension, SQL projects (including tables, views, and stored procedures) can be edited without the need to be connected to a server instance in Azure Data Studio. The tutorial below shows you how to:
-
-1. Create a SQL Database Project of the [!INCLUDE [sssampledbobject-md](includes/sssampledbobject-md.md)] database.
-
-2. Make and deploy changes to a table in the [!INCLUDE [sssampledbobject-md](includes/sssampledbobject-md.md)] database using SQL Database Projects and confirming this change in the locally connected server instance where this database resides.
-
-[!INCLUDE [article-uses-adventureworks](includes/article-uses-adventureworks.md)]
-
-You will also need to have the SQL Database Projects extension installed. Refer to the [SQL Database Projects documentation](extensions/sql-database-project-extension.md) to learn more about this extension.
-
-## Create a SQL Database Project
-
+[!
 1. Navigate to the [!INCLUDE [sssampledbobject-md](includes/sssampledbobject-md.md)] database object located in the object explorer, right-click on it and select **Create Project from Database**:
 
     :::image type="content" source="media/table-designer-azure-data-studio/table-designer-show-how-to-create-project-from-database.png" alt-text="Screenshot of the object explorer in Azure Data Studio showing how to create a project from a database object.":::
