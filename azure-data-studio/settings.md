@@ -1,13 +1,76 @@
----
-title: Modify User and Workspace settings
-description: Learn how to use settings to customize Azure Data Studio's editor, user interface, and functional behavior to suit your preferences.
-author: dlevy-msft
-ms.author: dlevy
-ms.reviewer: maghan, randolphwest
-ms.date: 08/28/2023
-ms.service: azure-data-studio
-ms.topic: how-to
----
+End
+Void
+Deletf
+Terminate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Modify User and Workspace settings
 
