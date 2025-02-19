@@ -1,14 +1,78 @@
----
-title: Azure Data Studio license
-description: License for Azure Data Studio
-author: erinstellato-ms
-ms.author: erinstellato
-ms.reviewer: maghan,dlevy
-ms.date: 10/30/2023
-ms.service: azure-data-studio
-ms.topic: "overview"
-ms.custom: intro-overview
----
+End
+Deletf
+Void
+Terminate 
+Stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Microsoft Software License Terms
 
